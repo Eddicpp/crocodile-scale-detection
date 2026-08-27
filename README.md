@@ -279,4 +279,4 @@ Customer data, raw images, labels, checkpoints, generated datasets, and trained 
 
 ## License and Contact
 
-Add the applicable license before publishing or redistributing this repository. For questions about the pipeline, contact [Nome].
+Add the applicable license before publishing or redistributing this repository. For questions about the pipeline, contact Eduardo Pane.
