@@ -12,8 +12,7 @@ The final model is YOLO11-seg from Ultralytics. For very large source photograph
 
 ## Example Result
 
-<!-- TODO: add example image -->
-![result](docs/esempio_risultato.png)
+<img width="2816" height="1536" alt="Gemini_Generated_Image_mvq22gmvq22gmvq2_yolo_tiled" src="https://github.com/user-attachments/assets/b1656a8e-9cc9-47c8-850e-4ed94215effd" />
 
 ## Installation
 
