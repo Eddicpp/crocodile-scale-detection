@@ -1,0 +1,24 @@
+# Dati del cliente — MAI su un repo pubblico
+data/
+!data/.gitkeep
+
+# Modelli allenati — possono incorporare pattern dai dati del cliente
+models/
+!models/.gitkeep
+
+# Output run YOLO (Ultralytics li mette anche fuori da models/ a volte)
+runs/
+
+# Ambiente Python
+gucci_env/
+venv/
+__pycache__/
+*.pyc
+
+# File di sistema
+.DS_Store
+Thumbs.db
+
+# Editor
+.vscode/
+.idea/
